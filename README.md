@@ -1,0 +1,2 @@
+# .github
+Cryptonate Design Documentation
